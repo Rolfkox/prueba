@@ -1,0 +1,109 @@
+
+
+   
+body{
+    font-family: 'Cabin', sans-serif;
+   
+}
+
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: white;
+   
+}
+header img {
+    text-align: left;
+    margin-top: 10%;
+}
+
+
+
+
+header{
+    background-image: url('../img/header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+}
+
+h1{
+    
+    text-align: right;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+h2{ 
+   
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+
+
+
+h3{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+h4{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: 400;
+
+}
+
+
+h5{ text-align: center;
+    font-family: 'Cabin', sans-serif;
+    color: white;
+    font-weight: 400;
+}
+.card-body{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    text-align: right;
+}
+
+.columnas {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+
+
+
+.footer{
+    background: #373A3C;
+}
+
+.text-border-top {
+    border-top: 4px solid #ffff;;
+}
+
+.text-border-bottom {
+    border-bottom: 4px solid #ffff;
+}
+
+span { font-family: 'Lobster', cursive;
+    color: #fff;
+    font-weight: 400;
+}
+
+
+
+i {
+    display: inline-block;
+    padding: 20px;
+    size: 30px;
+    color: white;
+}
+
